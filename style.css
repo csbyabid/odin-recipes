@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Lucida Console", "Times New Roman", "Sans-serif";
+    color:dimgray;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+
+.chicken-fry, .mocha, .french{
+    text-decoration: none;
+    font-family: Copperplate, Monaco, "Lucida Console";
+    font-weight: bolder;
+    color:#e09e22;
+    font-size: 30px;
+}
+
+.mocha{
+    color: #cc6d41;
+}
+
+.french{
+    color: #ffd52b;
+}
+
+
